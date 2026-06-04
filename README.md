@@ -1,8 +1,8 @@
 # ¡Hola, soy David! 👋
 
-### AI Automation Developer en Pérez Lázaro
+### AI Automation Developer
 
-Me dedico al **desarrollo de aplicaciones y a la automatización de procesos internos utilizando Inteligencia Artificial** en **Pérez Lázaro**. Mi trabajo consiste en diseñar e integrar soluciones inteligentes que optimicen los flujos de trabajo de la empresa, agilicen las tareas diarias y mejoren la eficiencia operativa general.
+Me dedico al **desarrollo de aplicaciones y a la automatización de procesos internos utilizando Inteligencia Artificial**. Mi trabajo consiste en diseñar e integrar soluciones inteligentes que optimicen los flujos de trabajo, agilicen las tareas diarias y mejoren la eficiencia operativa general.
 
 ---
 
