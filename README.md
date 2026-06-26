@@ -24,10 +24,6 @@ Desarrollador enfocado en la creación de aplicaciones con inteligencia artifici
 *   **[AntigravityAccounts](https://github.com/Davissss2/AntigravityAccounts)**  
     Herramienta de utilidad para administrar y alternar entre múltiples cuentas dentro de Antigravity AI, optimizando el uso de cuotas disponibles en flujos de trabajo paralelos.
 
-#### Optimización de Modelos
-*   **[ContextSlimAI](https://github.com/Davissss2/ContextSlimAI)**  
-    Herramienta para la optimización de la ventana de contexto en modelos de lenguaje (LLMs). Reduce el consumo de tokens y mejora la eficiencia de costes en la implementación de agentes autónomos.
-
 ---
 
 ### Métricas de GitHub
