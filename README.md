@@ -1,38 +1,39 @@
-# ¡Hola, soy David! 👋
+# David
 
-### AI Automation Developer
+**AI Automation Developer & Systems Administrator (ASIR)**  
+Granada, España
 
-Me dedico al **desarrollo de aplicaciones y a la automatización de procesos internos utilizando Inteligencia Artificial**. Mi trabajo consiste en diseñar e integrar soluciones inteligentes que optimicen los flujos de trabajo, agilicen las tareas diarias y mejoren la eficiencia operativa general.
+Desarrollador enfocado en la creación de aplicaciones con inteligencia artificial, automatización de procesos internos y administración de sistemas en red. Especializado en el diseño de flujos de trabajo eficientes, optimización de ventanas de contexto en LLMs y gestión de infraestructura.
 
 ---
 
-### 🛠️ Tecnologías y Enfoques
+### Tecnologías y Enfoques
+
+*   **Desarrollo y scripting:** TypeScript, Node.js, JavaScript, Bash.
+*   **Sistemas e Infraestructura (ASIR):** Administración de servidores, redes, entornos Linux y automatización de sistemas.
+*   **Optimización de IA:** Control de tokens, gestión de contexto en LLMs e integración de APIs de terceros.
+
+---
+
+### Proyectos
+
+#### Ecosistema Antigravity AI
+*   **[Antigravity-Caveman-](https://github.com/Davissss2/Antigravity-Caveman-)**  
+    Extensión de VS Code para gestionar la compresión de tokens "caveman" en Antigravity AI. Añade un control directo en la barra de estado para activar o desactivar la optimización según las necesidades del desarrollo.
+
+*   **[AntigravityAccounts](https://github.com/Davissss2/AntigravityAccounts)**  
+    Herramienta de utilidad para administrar y alternar entre múltiples cuentas dentro de Antigravity AI, optimizando el uso de cuotas disponibles en flujos de trabajo paralelos.
+
+#### Optimización de Modelos
+*   **[ContextSlimAI](https://github.com/Davissss2/ContextSlimAI)**  
+    Herramienta para la optimización de la ventana de contexto en modelos de lenguaje (LLMs). Reduce el consumo de tokens y mejora la eficiencia de costes en la implementación de agentes autónomos.
+
+---
+
+### Métricas de GitHub
 
 <p align="left">
-  <!-- AI & LLMs -->
-  <img src="https://img.shields.io/badge/AI_Applications-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Process_Automation-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Optimization-412991?style=for-the-badge&logo=meta&logoColor=white" />
-  <br/>
-  <!-- Desarrollo -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davissss2&show_icons=true&hide_rank=true&bg_color=050505&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&border_color=222222" alt="Métricas de David" width="420" />
 </p>
 
 ---
-
-### 🚀 Proyectos Propios
-
-*   **[ContextSlimAI](https://github.com/Davissss2/ContextSlimAI)** 🚀: Una herramienta diseñada para optimizar y reducir el tamaño de la ventana de contexto en modelos de lenguaje (LLMs), ahorrando tokens y mejorando notablemente la eficiencia en coste de los agentes de IA.
-
----
-
-### 🤝 Conectemos
-
-Si quieres hablar sobre desarrollo de aplicaciones con IA, automatización de procesos internos o eficiencia en flujos de trabajo:
-
-<p align="left">
-  <a href="TU_ENLACE_DE_LINKEDIN_AQUÍ" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
